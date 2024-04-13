@@ -8,6 +8,7 @@
 | Developers | Timothy Rodriguez |
 | Live Website | |
 | Repo | https://github.com/timorodr/capstone-fe |
+| Techologies | React |
 
 ## Problem Being Solved and Target Market
 
@@ -26,7 +27,7 @@ Medication management is a crucial aspect of maintaining good health, independen
 
 ## Component Architecture
 
-![My ERD](https://i.imgur.com/C4rtUHu.png)
+![My ERD](https://i.imgur.com/UzR7gby.png)
 
 ## User Interface Mockups
 
